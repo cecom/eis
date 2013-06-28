@@ -1,0 +1,8 @@
+com.geewhiz.eis.commandline.SetValueCommandModule
+com.geewhiz.eis.commandline.ExportCommandModule
+com.geewhiz.eis.commandline.GetValueCommandModule
+com.geewhiz.eis.commandline.ImportCommandModule
+com.geewhiz.eis.commandline.CreateDeploymentCommandModule
+com.geewhiz.eis.commandline.CreateEnvironmentCommandModule
+com.geewhiz.eis.commandline.CreatePropertyCommandModule
+com.geewhiz.eis.commandline.DeleteAllCommandModule
